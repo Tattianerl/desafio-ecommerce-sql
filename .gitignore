@@ -1,0 +1,29 @@
+# Arquivos de backup do editor
+*.bak
+*.tmp
+*.swp
+
+# Arquivos de log
+*.log
+
+# Configurações do VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de banco de dados locais
+*.db
+*.sqlite
+*.sqlite3
+
+# Pastas temporárias
+node_modules/
+dist/
+build/
+
+# Arquivos compactados
+*.zip
+*.tar.gz
+*.rar
