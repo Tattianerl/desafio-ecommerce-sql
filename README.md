@@ -46,8 +46,4 @@ As queries utilizam cláusulas como:
 3. Insira os dados de teste.
 4. Execute as queries para validar a estrutura e extrair informações.
 
-## 📝 Licença
 
-Este projeto é parte de um desafio de projeto para prática e avaliação dos conhecimentos em modelagem e SQL.
-
----
